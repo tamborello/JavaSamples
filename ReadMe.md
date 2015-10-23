@@ -1,1 +1,1 @@
-This is a collection of projects I've used to teach myself Java.
+These are some Java examples I coded to teach myself Java. These projects do things like create a GUI application that opens text or Excel files and displays that data tabularly or graphically. I developed these with the Netbeans 8 IDE.
